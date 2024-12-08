@@ -1,0 +1,93 @@
+.PRButtonNotifications.PRButtonNotifications {
+  flex-direction: column;
+  gap: initial;
+  padding: initial;
+}
+.Bell.Bell.Bell {
+  position: initial;
+}
+.vector.vector.vector {
+  position: initial;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+}
+.PRButtonAccount.PRButtonAccount {
+  flex-direction: column;
+  gap: initial;
+  padding: initial;
+}
+.User.User.User {
+  position: initial;
+}
+.vector2.vector2.vector2 {
+  position: initial;
+  top: initial;
+  right: initial;
+  bottom: initial;
+  left: initial;
+}
+.root {
+  position: absolute;
+  left: 50%;
+  top: 0;
+  width: 1920px;
+  height: min-content;
+  align-items: center;
+  gap: 180px;
+  padding: 16px 180px;
+  background-color: #fff;
+  box-shadow: 0px 1px 0px #cdcccd, inset 0px -1px 0px #cdcccd;
+  transform: translateX(-50%);
+}
+.frame48097360 {
+  width: min-content;
+  height: min-content;
+  align-items: flex-start;
+  gap: 10px;
+}
+.frame {
+  width: 61px;
+  height: 40px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.logo {
+  width: min-content;
+  height: min-content;
+}
+.frame2 {
+  width: min-content;
+  height: min-content;
+  align-self: flex-start;
+  flex-direction: column;
+  align-items: flex-start;
+}
+.ClusterNameDeveloperConsole {
+  color: #2c3e50;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.005em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.poweredByCereNetwork {
+  color: #6c7a89;
+  font-size: 12px;
+  line-height: 133%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.03em;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}

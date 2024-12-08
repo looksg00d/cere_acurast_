@@ -1,0 +1,16 @@
+{
+    "name": "heic-converter",
+    "version": "1.0.0",
+    "scripts": {
+      "start:backend": "cd backend && npm start",
+      "start:frontend": "cd fm && npm run dev",
+      "dev": "concurrently \"npm run start:backend\" \"npm run start:frontend\"",
+      "build": "npm run build:backend && npm run build:frontend",
+      "build:backend": "cd backend && npm run build",
+      "build:frontend": "cd fm && npm run build",
+      "install:all": "npm install && cd backend && npm install && cd ../fm && npm install"
+    },
+    "devDependencies": {
+      "concurrently": "^8.2.2"
+    }
+  }

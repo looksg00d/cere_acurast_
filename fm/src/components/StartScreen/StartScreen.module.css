@@ -1,0 +1,490 @@
+.CloudUpload.CloudUpload {
+  width: 48px;
+  height: 48px;
+}
+.icon {
+  width: 100%;
+  height: 100%;
+}
+.button2.button2 {
+  width: 160px;
+}
+.button {
+  color: #fff;
+  font-size: 16px;
+  line-height: 150%;
+  font-weight: 500;
+  font-family: DM Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.05em;
+  text-transform: capitalize;
+  width: min-content;
+  height: min-content;
+  white-space: nowrap;
+  flex-direction: column;
+}
+.root {
+  position: relative;
+  width: 1920px;
+  height: 1080px;
+  flex-direction: column;
+  align-items: center;
+  padding: 0 0 64px;
+  outline: solid 1px #cdcccd;
+  background-color: #f5f7fa;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+.insider {
+  position: absolute;
+  left: 180px;
+  top: calc(50% - -36px);
+  width: 1560px;
+  height: 928px;
+  transform: translateY(-50%);
+}
+.column {
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  padding: 48px 0 24px;
+  border-radius: 20px;
+  background-color: #fff;
+  box-shadow: 4px 4px 12px 0px #e7ebf080;
+}
+.frame48097262 {
+  width: 1200px;
+  height: min-content;
+  flex-direction: column;
+  align-items: center;
+  gap: 48px;
+}
+.vector {
+  width: 338px;
+  height: 23px;
+  overflow: visible;
+}
+.icon2 {
+  width: 100%;
+  height: 100%;
+}
+.text {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 16px;
+}
+.header {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+}
+.title {
+  color: #2c3e50;
+  font-size: 48px;
+  line-height: 133%;
+  font-weight: bold;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.thisDecentralizedImageConverto {
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+.textBlock {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.labelWrapper {
+  font-size: 16px;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label2 {
+  color: #5865f2;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label3 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label4 {
+  color: #5865f2;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label5 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.dragonDrop {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  align-items: center;
+  gap: 24px;
+}
+.dragonDrop2 {
+  height: 200px;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  padding: 24px 24px 40px;
+  outline: dashed 2px #afbdcb;
+  outline-offset: -1px;
+  border-radius: 20px;
+  background-color: #f5f7fa;
+}
+.frame48097261 {
+  z-index: 0;
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 20px;
+  padding: 20px 0 0;
+}
+.dragAndDropAHEICFileHereOrClic {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+  height: min-content;
+  align-self: stretch;
+  text-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+._2Columns {
+  height: min-content;
+  align-self: stretch;
+  gap: 16px;
+}
+.wantToLearnMore {
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10px;
+}
+.header2 {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 8px;
+}
+.yourBuckets {
+  color: #2c3e50;
+  font-size: 24px;
+  line-height: 133%;
+  font-weight: 500;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.wantToLearnMore2 {
+  flex: 1;
+  align-self: stretch;
+  align-items: flex-start;
+  padding: 24px;
+  border-radius: 20px;
+  background-color: #f5f7fa;
+}
+.attentionAppDevelopersWebsiteH {
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.labelWrapper2 {
+  font-size: 16px;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label6 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label7 {
+  color: #5865f2;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.textBlock2 {
+  margin-top: 0;
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.textBlock3 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.textBlock4 {
+  margin-top: 0;
+}
+.labelWrapper3 {
+  font-size: 16px;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label8 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label9 {
+  color: #5865f2;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label10 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.areYouADeveloper {
+  flex: 1;
+  align-self: stretch;
+  flex-direction: column;
+  gap: 10px;
+}
+.header3 {
+  height: min-content;
+  align-self: stretch;
+  align-items: center;
+  gap: 8px;
+}
+.yourBuckets2 {
+  color: #2c3e50;
+  font-size: 24px;
+  line-height: 133%;
+  font-weight: 500;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: -0.005em;
+  height: min-content;
+  flex: 1;
+  flex-direction: column;
+}
+.areYouADeveloper2 {
+  height: min-content;
+  align-self: stretch;
+  flex-direction: column-reverse;
+  gap: 16px;
+  padding: 24px;
+  border-radius: 20px;
+  background-color: #f5f7fa;
+}
+.attentionAppDevelopersWebsiteH2 {
+  height: min-content;
+  align-self: stretch;
+  z-index: 0;
+  flex-direction: column;
+}
+.labelWrapper4 {
+  font-size: 16px;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label11 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label12 {
+  color: #5865f2;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.textBlock5 {
+  margin-top: 0;
+}
+.labelWrapper5 {
+  font-size: 16px;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label13 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label14 {
+  color: #5865f2;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.textBlock6 {
+  margin-top: 0;
+}
+.labelWrapper6 {
+  font-size: 16px;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  flex-shrink: 1;
+}
+.label15 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label16 {
+  color: #5865f2;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.label17 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.attentionAppDevelopersWebsiteH3 {
+  height: min-content;
+  align-self: stretch;
+  z-index: 0;
+  flex-direction: column;
+}
+.textBlock7 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.textBlock8 {
+  color: #6c7a89;
+  font-size: 16px;
+  line-height: 150%;
+  font-family: Human Sans, system-ui, -apple-system, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, 'Noto Sans',
+    'Liberation Sans', sans-serif;
+  letter-spacing: 0.0168em;
+}
+.uploadingStatus {
+  margin-top: 16px;
+  color: #6c7a89;
+  font-size: 14px;
+}
+.resultContainer {
+  margin-top: 16px;
+  padding: 16px;
+  border-radius: 8px;
+  background-color: #f5f7fa;
+}
+.successMessage {
+  color: #2e7d32;
+  font-weight: 500;
+  margin-bottom: 8px;
+}
+.errorMessage {
+  color: #d32f2f;
+  font-weight: 500;
+}
+.downloadLinks {
+  display: flex;
+  gap: 16px;
+  justify-content: center;
+  margin-top: 8px;
+}
+.downloadLinks a {
+  color: #5865f2;
+  text-decoration: none;
+  padding: 8px 16px;
+  border-radius: 4px;
+  background-color: #e8eaf6;
+  transition: background-color 0.2s;
+}
+.downloadLinks a:hover {
+  background-color: #c5cae9;
+}
